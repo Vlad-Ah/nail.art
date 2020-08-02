@@ -325,7 +325,7 @@ h6 {
     transition-duration: 0.8s;
 }
 
-.container, .contentPrice {
+.container .contentPrice, .contacts{
     display: flexbox;
     margin-top: 50px;
     align-items: center;
@@ -337,7 +337,7 @@ h6 {
 .heading {
     font-size: 20px;
     text-align: center;
-    font-weight: bold;
+    font-weight: 400;
     padding-bottom: 20px;
 
 }
